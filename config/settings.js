@@ -114,17 +114,17 @@ const MEMORIES = [
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   7. UCAPAN ULANG TAHUN
+   7. HARAPAN & UCAPAN
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    icon: wave | shell | star | compass | anchor | heart
    text: isi ucapannya                                            */
 const WISHES = [
-  { icon: "wave",    text: "May this year bring you the calmness of the ocean and the depth of your kindness." },
-  { icon: "shell",   text: "Hope your days are as bright as the sun on the water, and your nights as peaceful as the receding tide." },
+  { icon: "wave",    text: "May your days bring you the calmness of the ocean and the depth of your kindness." },
+  { icon: "shell",   text: "Hope your path is as bright as the sun on the water, and your nights as peaceful as the receding tide." },
   { icon: "star",    text: "May every little wish of yours arrive right when you need it the most." },
-  { icon: "compass", text: "Wherever this year takes you, I hope you always find your way back to the people who adore you." },
+  { icon: "compass", text: "Wherever life takes you, I hope you always find your way back to my arms." },
   { icon: "anchor",  text: "Stay grounded, stay grateful, and honestly, just stay as beautiful as you are right now." },
-  { icon: "heart",   text: "Happy birthday — cheers to another year of memories totally worth keeping." },
+  { icon: "heart",   text: "Thank you for everything — cheers to many more beautiful memories together." },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
